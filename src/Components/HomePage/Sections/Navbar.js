@@ -21,9 +21,6 @@ function navbar() {
           <Link smooth = {true} offset = {-90} duration = {1000} to = "categories">
             Categories
           </Link>
-          <Link smooth = {true} offset = {-190} duration = {1000} to = "howwework">
-            How We Work?
-          </Link>
           <Link smooth = {true} offset = {-90} duration = {1000} to = "contact">
             Contact Us
           </Link>
