@@ -24,7 +24,7 @@
     font-family: "Poppins", sans-serif;
     padding-bottom: 7px;
     display: table-cell;
-    border-bottom: #008dc8 solid 3px;
+    border-bottom: #14a800 solid 3px;
 }
 
 .CardImage {
@@ -38,7 +38,7 @@
 .Links {
     display: flex;
     justify-content: center;
-    color: #008dc8;
+    color: #14a800;
     margin-bottom: 0px;
     margin-top: 0px;
 }

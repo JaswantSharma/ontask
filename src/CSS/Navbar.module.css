@@ -36,7 +36,7 @@ a:hover,
 a:active,
 a:global(.active) {
   cursor: pointer;
-  border-bottom: 2px solid #008dc8;
+  border-bottom: 2px solid #14a800;
 }
 
 .NoUnderline:hover{
@@ -52,7 +52,7 @@ a:global(.active) {
 }
 
 .SearchButton {
-  background-color: #008dc8;
+  background-color: #14a800;
   border: none;
   color: white;
   padding: 4px 10px 4px 10px;
@@ -71,7 +71,7 @@ a:global(.active) {
 }
 
 .Dropdown {
-  background-color: #008dc8;
+  background-color: #14a800;
   border: none;
   color: #fff;
   margin-left: 390%;
@@ -85,7 +85,7 @@ a:global(.active) {
 }
 
 .Button {
-  background-color: #008dc8;
+  background-color: #14a800;
   border: none;
   color: #fff;
   text-align: center;

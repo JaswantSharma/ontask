@@ -23,19 +23,19 @@
 }
 
 h5 {
-    color: #008dc8;
+    color: #14a800;
     font-family: "Poppins", sans-serif;
     margin-bottom: 0px;
 }
 
 .Border {
-    border-bottom: #008dc8 solid 2px;
+    border-bottom: #14a800 solid 2px;
     display: table-cell;
     position: relative;
 }
 
 .Rectangle {
-    border-bottom: 2px #008dc8 solid;
+    border-bottom: 2px #14a800 solid;
     position: absolute;
     /* right: 50%; */
     /* left: 0; */

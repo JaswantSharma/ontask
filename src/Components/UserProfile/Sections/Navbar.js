@@ -8,7 +8,7 @@ function navbar() {
         <Navbar.Brand className = {styles.Logo}>
             <a href = "/" className = {styles.Brand} style = {{fontSize: "35px"}}>
                 Roz 
-                <span style = {{ color: "#008dc8" }}>gaar </span> 
+                <span style = {{ color: "#14a800" }}>gaar </span> 
             </a>
         </Navbar.Brand>
     </Navbar>

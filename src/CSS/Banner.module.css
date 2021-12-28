@@ -15,7 +15,7 @@
 }
 
 .SubHeading {
-    color: #bd6997;
+    color: #14a800;
     font-size: 1.5rem;
 }
 
@@ -27,12 +27,12 @@
 .Rectangle {
     height: 5px;
     width: 250px;
-    background-color: #008dc8;
+    background-color: #14a800;
     margin-bottom: 20px;
 }
 
 .Button {
-    background-color: #008dc8;
+    background-color: #14a800;
     border: none;
     color: #fff;
     text-align: center;

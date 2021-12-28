@@ -9,7 +9,7 @@ function ElectricianCard(props) {
   return (
     <div id = "fulltime" className = {styles.Box}>
       <Card style = {{width: "80rem", borderRadius: "10px"}}>
-        <Card.Header style = {{backgroundColor: "#008dc8", borderRadius: "10px 10px 0 0"}}></Card.Header>
+        <Card.Header style = {{backgroundColor: "#14a800", borderRadius: "10px 10px 0 0"}}></Card.Header>
         <Card.Body>
           <Row>
             <Card.Img

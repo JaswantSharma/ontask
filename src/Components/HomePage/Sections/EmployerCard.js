@@ -5,8 +5,8 @@ import styles from "../../../CSS/ProcedureCard.module.css"
 function KnowAbout(props) {
     return (
         <div id = "procedure" className = {styles.Box}>
-            <Card style={{ width: '12rem', borderRadius: "50%", border: "#bd6997 solid 4px", marginRight: "0px" }}>
-                {/* <Card.Header style = {{background: "#bd6997"}}></Card.Header> */}
+            <Card style={{ width: '12rem', borderRadius: "50%", border: "#14a800 solid 4px", marginRight: "0px" }}>
+                {/* <Card.Header style = {{background: "#14a800"}}></Card.Header> */}
                 <Card.Img 
                     variant = "top"
                     src = {require("../../../Assets/" + props.data.imgUrl)}
