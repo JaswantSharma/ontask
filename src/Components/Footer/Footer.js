@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Jumbotron, Row, Col, Image } from "react-bootstrap";
-import Logo from "../../Assets/logo.PNG"
+import Logo from "../../Assets/logo.png"
 import styles from "../../CSS/Footer.module.css";
 import { FaLinkedinIn, FaInstagram, FaTwitter, FaPhoneAlt } from "react-icons/fa";
 import { BiCopyright } from "react-icons/bi"
