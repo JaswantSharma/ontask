@@ -8,8 +8,8 @@ function navbar() {
     <Navbar fixed = "top" bg = "light" expand = "lg" className = {styles.NavBar}>
       <Navbar.Brand className = {styles.Logo}>
         <a href = "/" className = {styles.Brand} style = {{fontSize: "35px"}}>
-          Roz 
-          <span style = {{ color: "#14a800" }}>gaar </span> 
+          On 
+          <span style = {{ color: "#14a800" }}>Task </span> 
         </a>
       </Navbar.Brand>
       <Navbar.Toggle aria-controls = "responsive-navbar-nav" />
