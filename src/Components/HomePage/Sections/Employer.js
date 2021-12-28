@@ -20,10 +20,6 @@ class KnowAbout extends Component {
     return (
       <Jumbotron className={styles.Jumbotron}>
         <Container fluid="sm">
-          <h2 className={styles.Heading}>
-            How we work for
-            <span className={styles.About}> Employer </span>?
-          </h2>
           <Row
             className="justify-content-md-center"
             style={{ marginTop: "50px" }}
