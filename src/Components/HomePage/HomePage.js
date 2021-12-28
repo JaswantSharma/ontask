@@ -12,8 +12,6 @@ class HomePage extends Component {
         <Navbar />
         <Banner />
         <KnowAbout />
-        <JobSeeker />
-        <Employer />
       </div>
     );
   }
